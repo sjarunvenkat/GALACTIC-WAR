@@ -1,7 +1,7 @@
 # GALACTIC-WAR
 Developed for CA 2
 
-### Grreting page
+### Greeting page
 ![](https://github.com/sjarunvenkat/GALACTIC-WAR/blob/main/Demo_Output/index.jpeg)
 #### Mobile
 ![](https://github.com/sjarunvenkat/GALACTIC-WAR/blob/main/Demo_Output/index-mobile.png)
